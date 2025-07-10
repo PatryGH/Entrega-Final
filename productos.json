@@ -1,0 +1,11 @@
+[
+    { "id": 1, "nombre": "Banana", "precio": 500, "imagen": "img/banana.jpg" },
+    { "id": 2, "nombre": "Manzana", "precio": 700, "imagen": "img/manzana.jpg" },
+    { "id": 3, "nombre": "Zanahoria", "precio": 350, "imagen": "img/zanahoria.jpg" },
+    { "id": 4, "nombre": "Tomate", "precio": 420, "imagen": "img/tomate.jpg" },
+    { "id": 5, "nombre": "Papa", "precio": 310, "imagen": "img/papa.jpg" },
+    { "id": 6, "nombre": "Naranja", "precio": 650, "imagen": "img/naranja.jpg" },
+    { "id": 7, "nombre": "Lechuga", "precio": 280, "imagen": "img/lechuga.jpg" },
+    { "id": 8, "nombre": "Cebolla", "precio": 390, "imagen": "img/cebolla.jpg" },
+    { "id": 8, "nombre": "Kiwi", "precio": 900, "imagen": "img/kiwi.jpg" }
+  ]
